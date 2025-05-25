@@ -17,7 +17,7 @@ function calculator(a, b, operator) {
   }
 }
 
-// Example usage: These are examples 
+// Example usage:
 console.log(calculator(10, 5, '+')); // 15
 console.log(calculator(10, 5, '-')); // 5
 console.log(calculator(10, 5, '*')); // 50
