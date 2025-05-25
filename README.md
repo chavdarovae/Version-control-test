@@ -13,7 +13,8 @@
 - git push --set-upstream origin <repo-address>  - adds upstream origin to our current branch
 - git push -u origin <repo-address> - adds upstream origin to our current branch
 
-- git branch -a - lists all branches
+- git branch - lists all local branches
+- git branch -a - lists all  local + all remote branches
 - git branch -vv - lists all branches and if they are connected to remote branch
 - git branch <branch-name> - creates a new branch
 - git checkout -b <branch-name> - switches to a branch with branch name <branch-name>
