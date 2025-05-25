@@ -17,3 +17,6 @@
 - git branch -vv - lists all branches and if they are connected to remote branch
 - git branch <branch-name> - creates a new branch
 - git checkout -b <branch-name> - switches to a branch with branch name <branch-name>
+
+- git fetch - brings the latest changes without merging into current barnch
+- git pull --rebase - merges the latest state of repo into the current branch
