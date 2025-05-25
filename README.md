@@ -19,5 +19,8 @@
 - git branch <branch-name> - creates a new branch
 - git checkout -b <branch-name> - switches to a branch with branch name <branch-name>
 
+- git branch -d  <branch-name> - deletes branch localy
+- git push origin -d <branch-name> - deletes branch remotely
+
 - git fetch - brings the latest changes without merging into current barnch
 - git pull --rebase - merges the latest state of repo into the current branch
