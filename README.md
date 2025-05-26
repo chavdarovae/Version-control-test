@@ -24,3 +24,5 @@
 
 - git fetch - brings the latest changes without merging into current barnch
 - git pull --rebase - merges the latest state of repo into the current branch
+
+- git log --oneline - lists all commits in lines
