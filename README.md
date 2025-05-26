@@ -26,3 +26,4 @@
 - git pull --rebase - merges the latest state of repo into the current branch
 
 - git log --oneline - lists all commits in lines
+- git cherry-pick <commit-id> - selects only a particular commit from another branch
